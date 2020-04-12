@@ -3,13 +3,13 @@ This is a java program that takes information from the user and produces a posit
 
 ## **Table of Contents**
 
-1.	[Introduction](Introduction)
-2.	[Features](Features)
-3.	[Code Example](Code Example)
-4.	[Installation](Installation)
-5.	[FAQ/Support](FAQ/Support)
-6.	[Contribute](Contribute)
-7.	[License](License)
+1.	[Introduction](#Introduction)
+2.	[Features](#Features)
+3.	[Code Example](#Code Example)
+4.	[Installation](#Installation)
+5.	[FAQ/Support](#FAQ/Support)
+6.	[Contribute](#Contribute)
+7.	[License](#License)
 
 ## Introduction
 
