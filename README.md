@@ -14,8 +14,8 @@ This is a java program that takes information from the user and produces a posit
 The fortune teller program allows the user to enter their name, age, and favorite color and produces a positive fortune based on the information given.
 
 ## Features
-•	Fortune Teller will provide a positive, morale boosting fortune based on the user’s name, age, and favorite color.
-•	Fortune Teller allows the user to use their information (name, age, favorite color) to produce a customized good fortune.
+*	Fortune Teller will provide a positive, morale boosting fortune based on the user’s name, age, and favorite color.
+* Fortune Teller allows the user to use their information (name, age, favorite color) to produce a customized good fortune.
 
 ## Code Example
 ENTER SNIPPET OF CODE HERE
@@ -32,10 +32,10 @@ Next, open the extracted file, FORTUNE_TELLER.
 Last, begin the game.
 
 ## FAQ/Support
-•	How do I get a different fortune?
-o	The fortunes are based on the information the user gives (name, age, favorite color)
-•	What do I do if the fortune has an error or is blank?
-o	Please contact mageesj@appstate.edu for any errors or program crash
+*	How do I get a different fortune?
+*	The fortunes are based on the information the user gives (name, age, favorite color)
+*	What do I do if the fortune has an error or is blank?
+*	Please contact mageesj@appstate.edu for any errors or program crash
 
 All other inquiries can be answered by mageesj@appstate.edu
 
