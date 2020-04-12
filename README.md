@@ -50,10 +50,11 @@ The program will look something like this:
 
 ## Installation
 
-The Fortune Teller game can be reached by downloading [this](FortuneTellerGame.zip). 
+The Fortune Teller game can be reached by following these simple steps. 
 First, click [this](FortuneTellerGame.zip).
-Now choose 
-Next, extract all the files to your file of choice.
+Now choose "View raw" to download the compressed(zipped) version of the Fortune Teller Game.
+Following the download, extract all the files to your destination file of choice.
+
 Next, open the extracted file.
 Last, begin the game.
 
