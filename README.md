@@ -68,7 +68,7 @@ All other inquiries can be answered by mageesj@appstate.edu
 
 ## Contribute
 
-The source code for Fortune Teller can be found here, https://github.com/sydneymagee/FortuneTellerGame.
+The source code for Fortune Teller can be found [here](https://github.com/sydneymagee/FortuneTellerGame).
 Please feel free to submit a pull request for Fortune Teller.
 
 ## License
