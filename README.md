@@ -18,6 +18,10 @@ The fortune teller program allows the user to enter their name, age, and favorit
 ## Features
 
 *	Fortune Teller will provide a positive, morale boosting fortune based on the user’s name, age, and favorite color.
+* Some of the fortunes that are possible outcomes of the Forunte Teller Game include:
+  * "Today is your day!"
+  * "If you wish to see the best in others, show the best of yourself."
+  * "Die with memories, not dreams."
 * Fortune Teller allows the user to use their information (name, age, favorite color) to produce a customized good fortune.
 
 ## CodeExample
@@ -56,19 +60,19 @@ Last, begin the game.
 ## FAQ/Support
 
 *	How do I get a different fortune?
-*	The fortunes are based on the information the user gives (name, age, favorite color)
+  *	The fortunes are based on the information the user gives (name, age, favorite color)
 *	What do I do if the fortune has an error or is blank?
-*	Please contact mageesj@appstate.edu for any errors or program crash
+  *	Please contact mageesj@appstate.edu for any errors or program crash
 
 All other inquiries can be answered by mageesj@appstate.edu
 
 ## Contribute
 
-The source code for Fortune Teller can be found here, LINK TO GITHUB.
+The source code for Fortune Teller can be found here, https://github.com/sydneymagee/FortuneTellerGame.
 Please feel free to submit a pull request for Fortune Teller.
 
 ## License
 
-Fortune Teller is licensed under the MIT license.
+Fortune Teller is licensed under the [MIT](https://github.com/sydneymagee/FortuneTellerGame/blob/master/LICENSE) license.
 
 
