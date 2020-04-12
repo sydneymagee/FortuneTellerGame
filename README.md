@@ -24,7 +24,23 @@ The fortune teller program allows the user to enter their name, age, and favorit
 The Fortune Teller program asks the user for their name, age, and favorite color. The program then produces a postive fortune based on the user's information. 
 First, the user is requested to enter their name.
 The program will look like this:
+
 ![alt text](name.png)
+
+Then, the user is requested to enter their age.
+The program will look like this:
+
+![alt text](age.png)
+
+Then, the user is requested to enter their favorite color.
+The program will look like this:
+
+![alt text](color.png)
+
+Finally, the program will execute and produce a user-specific fortune.
+The program will look something like this:
+
+![alt text](fortune.png)
 
 
 
