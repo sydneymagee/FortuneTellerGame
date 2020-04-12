@@ -5,7 +5,7 @@ This is a java program that takes information from the user and produces a posit
 
 1.	[Introduction](#Introduction)
 2.	[Features](#Features)
-3.	[Code Example](#Code Example)
+3.	[CodeExample](#CodeExample)
 4.	[Installation](#Installation)
 5.	[FAQ/Support](#FAQ/Support)
 6.	[Contribute](#Contribute)
@@ -20,7 +20,7 @@ The fortune teller program allows the user to enter their name, age, and favorit
 *	Fortune Teller will provide a positive, morale boosting fortune based on the user’s name, age, and favorite color.
 * Fortune Teller allows the user to use their information (name, age, favorite color) to produce a customized good fortune.
 
-## Code Example
+## CodeExample
 The Fortune Teller program asks the user for their name, age, and favorite color. The program then produces a postive fortune based on the user's information. 
 First, the user is requested to enter their name.
 The program will look like this:
